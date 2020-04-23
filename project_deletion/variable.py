@@ -1,6 +1,3 @@
-import sys
-sys.path.insert(0,'/project_deletion/')
-
 from googleapiclient import discovery
 
 from oauth2client.client import GoogleCredentials
