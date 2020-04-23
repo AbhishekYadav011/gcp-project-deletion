@@ -1,6 +1,3 @@
-import sys
-sys.path.insert(0,'/project_deletion/')
-
 from pprint import pprint
 
 #from googleapiclient import discovery
